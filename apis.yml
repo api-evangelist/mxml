@@ -1,12 +1,18 @@
+aid: mxml
 name: MXML
-description: MXML is an artificial intelligence technology or practice that leverages
-  machine learning, data analysis, or intelligent automation to solve complex problems.
-  It is increasingly applied across industries to improve efficiency, accuracy, and
-  decision-making in both technical and business contexts.
-url: null
+description: MXML (Magic XML) is a declarative XML-based language used in Adobe Flex for creating user interfaces and applications, allowing developers to define UI components and layouts in an XML format.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
 - MXML
+- Adobe Flex
+- XML
+- UI Framework
 created: '2025'
-modified: '2025'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
 common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

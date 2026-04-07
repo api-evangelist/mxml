@@ -4,10 +4,10 @@ description: MXML (Magic XML) is a declarative XML-based language used in Adobe 
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- MXML
-- Adobe Flex
-- XML
-- UI Framework
+  - Adobe Flex
+  - MXML
+  - UI Framework
+  - XML
 created: '2025'
 modified: '2026-03-16'
 specificationVersion: '0.19'

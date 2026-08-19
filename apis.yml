@@ -21,7 +21,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mxml.png
 url: https://en.wikipedia.org/wiki/MXML
 created: '2025-01-01'
 modified: '2026-04-28'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 tags:
   - Adobe Flex
   - Markup Language

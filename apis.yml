@@ -1,4 +1,5 @@
 aid: mxml
+x-type: concept
 name: MXML
 description: >-
   MXML (Magic XML) is a declarative XML-based markup language used in Adobe
@@ -41,6 +42,8 @@ tags:
   - XML
 apis: []
 common:
+  - type: Website
+    url: https://www.adobe.com/
   - type: Wikipedia
     url: https://en.wikipedia.org/wiki/MXML
   - type: Documentation
